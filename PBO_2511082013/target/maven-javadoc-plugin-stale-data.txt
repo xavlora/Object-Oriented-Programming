@@ -1,0 +1,44 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'D:/Muhamad Hafiz 2511082013 TRPL1D/PBO_2511082013/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/Muhamad Hafiz 2511082013 TRPL1D/PBO_2511082013/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'PBO_2511082013 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'PBO_2511082013 1.0-SNAPSHOT API'
+hafiz02032026
+D:\Muhamad Hafiz 2511082013 TRPL1D\PBO_2511082013\src\main\java = 1772425262581
+D:\Muhamad Hafiz 2511082013 TRPL1D\PBO_2511082013\target\reports\apidocs\allclasses-index.html = 1772425811126
+D:\Muhamad Hafiz 2511082013 TRPL1D\PBO_2511082013\target\reports\apidocs\allpackages-index.html = 1772425811152
+D:\Muhamad Hafiz 2511082013 TRPL1D\PBO_2511082013\target\reports\apidocs\element-list = 1772425810943
+D:\Muhamad Hafiz 2511082013 TRPL1D\PBO_2511082013\target\reports\apidocs\help-doc.html = 1772425811289
+D:\Muhamad Hafiz 2511082013 TRPL1D\PBO_2511082013\target\reports\apidocs\index-all.html = 1772425811237
+D:\Muhamad Hafiz 2511082013 TRPL1D\PBO_2511082013\target\reports\apidocs\index.html = 1772425811260
+D:\Muhamad Hafiz 2511082013 TRPL1D\PBO_2511082013\target\reports\apidocs\jquery-ui.overrides.css = 1772425811558
+D:\Muhamad Hafiz 2511082013 TRPL1D\PBO_2511082013\target\reports\apidocs\member-search-index.js = 1772425811195
+D:\Muhamad Hafiz 2511082013 TRPL1D\PBO_2511082013\target\reports\apidocs\module-search-index.js = 1772425811162
+D:\Muhamad Hafiz 2511082013 TRPL1D\PBO_2511082013\target\reports\apidocs\overview-tree.html = 1772425811096
+D:\Muhamad Hafiz 2511082013 TRPL1D\PBO_2511082013\target\reports\apidocs\package-search-index.js = 1772425811173
+D:\Muhamad Hafiz 2511082013 TRPL1D\PBO_2511082013\target\reports\apidocs\script.js = 1772425811330
+D:\Muhamad Hafiz 2511082013 TRPL1D\PBO_2511082013\target\reports\apidocs\search.js = 1772425811369
+D:\Muhamad Hafiz 2511082013 TRPL1D\PBO_2511082013\target\reports\apidocs\stylesheet.css = 1772425811305
+D:\Muhamad Hafiz 2511082013 TRPL1D\PBO_2511082013\target\reports\apidocs\tag-search-index.js = 1772425811207
+D:\Muhamad Hafiz 2511082013 TRPL1D\PBO_2511082013\target\reports\apidocs\type-search-index.js = 1772425811184
