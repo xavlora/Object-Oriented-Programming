@@ -6,7 +6,9 @@ public class MembacaBilangan {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("Masukkan sebuah bilangan: "); int bilangan = sc.nextInt();
+        System.out.print("Masukkan sebuah bilangan: ");
+        int bilangan = sc.nextInt();
+
         switch(bilangan) {
             case 1:
                 System.out.println("Satu");
